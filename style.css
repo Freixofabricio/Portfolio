@@ -57,7 +57,7 @@ header {
 }
 
 header .container {
-    width: 50%;
+    width: 52%;
     height: fit-content;
     padding: 0 100px;
 }
@@ -76,7 +76,7 @@ nav {
     justify-content: space-between;
     height: var(--menu-height);
     background: var(--bg-dark);
-    padding: 0 100px;
+    padding: 0 80px;
     position: sticky;
     top: 0;
 }
