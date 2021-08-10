@@ -116,7 +116,7 @@ section {
 
 /* small desktop */
 
-@media (max-width: 1000px) {
+@media (max-width: 1242px) {
     header .container {
         width: 100%;
     }
@@ -160,6 +160,10 @@ section {
     }
 
     nav {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        top: unset;
         padding: 0 15px;
     }
 
